@@ -29,14 +29,6 @@
 	- [Text](topics/Text.md)
 	- [Videos](topics/Videos.md)
 
-## Thanks to...
-
-* [Marcus Vinicius](https://github.com/mvfsilva), my friend =)
-* [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
-* [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
-* and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
-
-
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
